@@ -243,7 +243,7 @@ var saveTasks = function() {
     localStorage.setItem("tasks", JSON.stringify(tasks));
 };
 
-var loadTasks = function () {
+var loadTasks = function() {
     // get task items from localStorage
     var savedTasks = localStorage.getItem("tasks");
     if (!savedTasks) {

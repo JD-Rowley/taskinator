@@ -20,3 +20,5 @@
 
   ### GitHub Repo: https://github.com/JD-Rowley/taskinator
   
+Click the image to be taken to the URL of the deployed app.
+[![Sample Page Layout](/assets/images/taskinator.JPG)](https://jd-rowley.github.io/taskinator/)
